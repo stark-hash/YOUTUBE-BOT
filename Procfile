@@ -1,1 +1,1 @@
-worker: python3 HB.py
+web: python3 HB.py
